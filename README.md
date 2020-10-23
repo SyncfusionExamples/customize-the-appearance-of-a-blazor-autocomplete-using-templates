@@ -4,7 +4,7 @@ A quick-start project that helps you customize Syncfusion Blazor AutoComplete ea
 
 Watch the video: Coming soon...
 
-Documentation: https://blazor.syncfusion.com/documentation/autocomplete/templates 
+Documentation: https://blazor.syncfusion.com/documentation/autocomplete/templates  
 Online example: https://blazor.syncfusion.com/demos/autocomplete/template
 
 ## Project prerequisites
