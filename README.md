@@ -1,0 +1,2 @@
+# customize-the-appearance-of-a-blazor-autocomplete-using-templates
+A quick-start project that helps you customize Syncfusion Blazor AutoComplete easily using templates in a WebAssembly app. In this example, you will learn how to customize the appearance of AutoComplete items, headers, and footers; display data-fetch action failure information; and show no records information using templates in the Syncfusion Blazor AutoComplete.
